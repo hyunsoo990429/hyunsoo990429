@@ -1,10 +1,9 @@
 # Hi, I'm Hyunsoo 
 
 백엔드 개발자로 성장 중인 **김현수**입니다.  
-문제를 “고치는 것”에서 끝내지 않고, **왜 이런 문제가 생겼는지**부터 파고들어
-구조적으로 더 나은 방향을 찾는 걸 좋아합니다.
+문제를 **고치는 것**에서 끝내지 않고, **왜 이런 문제가 생겼는지**부터 파고들어 구조적으로 더 나은 방향을 찾는 걸 좋아합니다.
 
-## Featured Projects
+## Projects
 
 - **Car Community**
   - 자동차 튜닝 커뮤니티 & 3D 뷰어 서비스
@@ -20,13 +19,10 @@
 주제별 리스트로 정리해 두었습니다.
 
 - **Java**
-  - 🔗 [Java 리스트 바로가기](JAVA_LIST_URL)
+  - 🔗 [JAVA](https://github.com/stars/hyunsoo990429/lists/java)
 
 - **JPA**
-  - 🔗 [JPA 리스트 바로가기](JPA_LIST_URL)
+  - 🔗 [JPA](https://github.com/stars/hyunsoo990429/lists/jpa)
 
 - **Spring**
-  - 🔗 [Spring 리스트 바로가기](SPRING_LIST_URL)
-
-- **Project**
-  - 🔗 [Project 리스트 바로가기](PROJECT_LIST_URL)
+  - 🔗 [Spring](https://github.com/stars/hyunsoo990429/lists/spring)
