@@ -8,7 +8,7 @@
 
 - **Car Community Platform**
   - 자동차 튜닝 커뮤니티 & 3D 뷰어 서비스
-  - Repo: _(여기에 레포 링크를 나중에 추가)_
+  - Repo:(https://github.com/Filter-Fact)
 
 - **False / Misleading Ads RAG Service**
   - 기능성 식품·화장품 허위/과대 광고 문구를 검증하는 RAG 기반 서비스
