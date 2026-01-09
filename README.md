@@ -7,11 +7,11 @@
 
 - **Car Community**
   - 자동차 튜닝 커뮤니티 & 3D 뷰어 서비스
-  - Repo: [CarCommunity](https://github.com/Filter-Fact)
+  - Repo: [Filter & Facts](https://github.com/CarsCommunity)
 
 - **Filter & Facts**
   - 기능성 식품·화장품 허위/과대 광고 문구를 검증하는 RAG 기반 서비스
-  - Repo: [Filter & Facts](https://github.com/CarsCommunity)
+  - Repo: [CarCommunity](https://github.com/Filter-Fact)
  
  ## Star Lists
 
